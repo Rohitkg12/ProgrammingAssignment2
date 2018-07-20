@@ -1,10 +1,8 @@
 ##  Catching the Inverse of the Matrix
 
 ## makeCacheMatrix creates a special "matrix" that can store matrix and its inverse 
-
 ## matrix is stored in variable 'x'
 ## inverse matrix is stored in variable 'inv'
-
 ## Special matrix has a list of following functions to:
 ##  1. set the value of the matrix  - set(<matrix>)
 ##  2. get the value of the matrix  - get()
